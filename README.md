@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sameeralvisyed@gmail.com  
 - ⚡ Fun fact: I am a part time history geek
 
+https://github.com/anuraghazra/github-readme-stats
