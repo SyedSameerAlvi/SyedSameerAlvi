@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SyedSameerAlvi/SyedSameerAlvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me any thing related to Django (Rest Framework)
 - 📫 How to reach me: sameeralvisyed@gmail.com  
 - ⚡ Fun fact: I am a part time history geek
--->
+
